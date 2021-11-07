@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+How to do the **emphysis** again?
+Then what about the ~itilitics~?  how to make a new line? 
